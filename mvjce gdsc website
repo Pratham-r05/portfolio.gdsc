@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Developer Student Club</title>
+    <style>
+      /* Style for the header */
+      header {
+        background-color: #e8b3b3;
+        color: rgb(255, 252, 252);
+        padding: 30px;
+        text-align: left;
+        font-size: 30px;
+      }
+
+      /* Style for the navigation menu */
+      nav {
+        background-color: #55b931;
+        padding: 10px;
+      }
+
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align:  right ;
+        overflow: hidden;
+      }
+
+      nav li {
+        float: right;
+      }
+
+      nav li a {
+        display: block;
+        color: #ffffff;
+        text-align: right ;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      nav li a:hover {
+        background-color: #ddd;
+      }
+
+      /* Style for the main content */
+      main {
+        margin: 20px;
+        padding: 10px;
+        background-color: #fff;
+      }
+
+      /* Style for the footer */
+      footer {
+        background-color: #4285F4;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-size: 16px;
+      }
+    </style>
+  </head>
+    <header>
+      
+      <h2>Google Developer Student Club</h2>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">About GDSC</a></li>
+        <li><a href="#">Upcoming Events</a></li>
+        <li><a href="#">projects</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Welcome to the Google Developer Student Club Of MVJ College Of Engneering!</h2>
+      <p>
+        Google Developer Student Clubs are university based community groups for students interested in Google developer technologies.
+        Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. 
+        By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community..</p>
+      <p>Check out our upcoming events and ongoing projects!</p>
+    </main>
+    <footer>
+      <p>&copy; Google Developer Student Club Of Mvjce. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
